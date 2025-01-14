@@ -1,0 +1,9 @@
+今日の授業ではGitの使い方を練習します。
+試しに、ファイルをアップしました。
+
+>nkdir github
+>cd github
+>mkdir apppro_test
+>cd apppro_test
+>notepad test.txt
+
