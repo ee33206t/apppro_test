@@ -7,3 +7,14 @@
 >cd apppro_test
 >notepad test.txt
 
+>git init
+>git config --global user.email "ee33206t@nagaoka-ct.ac.jp"
+>git config --global user.name "ee33206t"
+
+>git add test.txt
+>git commit -m "はじめてのプッシュ"
+
+>git remote add origin https://github.com/ee33206t/apppro_test.git
+>git push --set-upstream origin master
+
+
