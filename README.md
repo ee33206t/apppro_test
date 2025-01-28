@@ -1,4 +1,5 @@
-今日はマークタウンでREADMEをつくる
+'''今日はマークタウンでREADMEを作るドン'''
+
 今日の内容はgithubに行ってからgit cloneをしました。
 
 '''git clone　https://github.com/ee33206t/apppro_test.git'''
