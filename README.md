@@ -14,36 +14,14 @@
 '''
  git branch
 '''
+
 - ブランチを作成する
 '''
  git branch branch_test
 '''
+
 - ブランチを移動
 '''
  git checkout branch_test
 '''
-
-///////////
-> git add README.md
-> git commit -m "READMEを追加"
-> git push -u origin branch_test
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
