@@ -2,8 +2,8 @@
 
 今日の内容はgithubに行ってからgit cloneをしました。
 
-'''
-git clone　https://github.com/ee33206t/apppro_test.git
+''' 
+ git clone　https://github.com/ee33206t/apppro_test.git
 '''
 
 アポストロフィを３つで囲むとコンピューターの命令として使われます。
@@ -12,13 +12,38 @@ git clone　https://github.com/ee33206t/apppro_test.git
 
 - 今のブランチを見る
 '''
-git branch
+ git branch
 '''
 - ブランチを作成する
 '''
-git branch branch_test
+ git branch branch_test
 '''
 - ブランチを移動
 '''
-git checkout branch_test
+ git checkout branch_test
 '''
+
+///////////
+> git add README.md
+> git commit -m "READMEを追加"
+> git push -u origin branch_test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
